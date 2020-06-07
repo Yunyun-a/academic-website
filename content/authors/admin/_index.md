@@ -30,7 +30,7 @@ education:
   - course: PhD in Materials Chemistry
     institution: University of Windsor
     year: 2020
-  - course: BSc in Solid-state Electronic Engineering
+  - course: BSc in Electronic Engineering
     institution: UESTC
     year: 2015
 
