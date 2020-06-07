@@ -21,13 +21,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Electronic Textiles
+- Stretchable Electronics
+- Materials Characterization
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Materials Chemistry
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
