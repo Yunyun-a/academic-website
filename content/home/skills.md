@@ -36,11 +36,7 @@ icon = ":smile:"
 icon_pack = "emoji"
 name = "Emojiness"
 description = "100%"
-[[feature]]
-icon = "beach-sunset"
-icon_pack = "custom"
-name = "Surfing"
-description = "90%"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
