@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: PhD in Materials Chemistry
-    institution: University of Windsor
+    institution: University of Windsor， Windsor,Canada
     year: 2020
   - course: BSc in Electronic Engineering
-    institution: University of Electronic Science and Technology of China
+    institution: University of Electronic Science and Technology of China, Chengdu, China
     year: 2015
 
 # Social/Academic Networking
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I obtained his bachelor degree from University of Electronic Science and Technology of China (UESTC) in 2015. I worked 
+I obtained my bachelor degrees in Electronic Science and Technology (Solid-state Electronic Engineering) from University of Electronic Science and Technology of China (UESTC) in 2015. 
