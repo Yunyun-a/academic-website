@@ -31,7 +31,7 @@ education:
     institution: University of Windsor
     year: 2020
   - course: BSc in Electronic Engineering
-    institution: UESTC
+    institution: University of Electronic Science and Technology of China
     year: 2015
 
 # Social/Academic Networking
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Yunyun is a 
+I obtained his bachelor degree from University of Electronic Science and Technology of China (UESTC) in 2015. I worked 
