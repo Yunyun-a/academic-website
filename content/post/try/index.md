@@ -1,7 +1,7 @@
 ---
 title: My plant gallery
 image:
-  caption: ""
+  caption: "triangle stars in the space"
 ---
 
 Let's try!
